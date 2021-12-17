@@ -45,6 +45,7 @@ The [Role Assignment](#role-assignment) sections explains how the roles are bein
 # Releases
 | Among Us - Version | Mod Version | Link |
 |----------|-------------|-----------------|
+| 2021.12.17s  | v3.2.5.3.1 GM-Fix | [Download](https://github.com/hourglassx18/TheOtherRoles-GM/releases/download/v3.2.5.3-1-fix/TheOtherRoles-GM.v3.2.5.3-1-fix.zip)
 | 2021.12.14s (build num: 1402) | v3.2.5.3 GM | [Download](https://github.com/yukinogatari/TheOtherRoles-GM/releases/download/v3.2.5.3/TheOtherRoles-GM.v3.2.5.3.zip)
 | 2021.11.9.5s | v3.2.5.2 GM | [Download](https://github.com/yukinogatari/TheOtherRoles-GM/releases/download/v3.2.5.2/TheOtherRoles-GM.v3.2.5.2.zip)
 | 2021.11.9.5s | v3.2.5.1 GM | [Download](https://github.com/yukinogatari/TheOtherRoles-GM/releases/download/v3.2.5.1/TheOtherRoles-GM.v3.2.5.1.zip)
@@ -61,6 +62,8 @@ The [Role Assignment](#role-assignment) sections explains how the roles are bein
 # Changelog
 <details>
   <summary>Click to show the Changelog</summary>
+**Version 3.2.5.3.1-fix**
+- Fixed a bug where you can't create a lobby on Among Us 2021.12.15(From TheOtherRoles v3.3.2)
   
 **Version 3.2.5 (GM)**
 - Allow hiding nameplates on an individual basis
